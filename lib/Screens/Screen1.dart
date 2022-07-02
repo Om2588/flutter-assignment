@@ -27,7 +27,7 @@ class Screen1 extends StatelessWidget {
             Container(
               child: Align(
                   alignment: Alignment.topCenter,
-                  child: Text("Hi,Harsh Vardhan Gupta",
+                  child: Text("Hello ,Om Srivastava",
                       textAlign: TextAlign.start,
                       style: TextStyle(
                           fontSize: 24,
